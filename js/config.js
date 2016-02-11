@@ -53,8 +53,8 @@ $(function() {
 
      // If Github mode is set, your Github username and repo name.
     githubUserSettings: {
-      username: 'mmacedoeu',
-      repo: 'https://github.com/authcf/authcf.github.io'
+      username: 'authcf',
+      repo: 'authcf.github.io'
     },
 
     // If Github mode is set, choose which Github branch to get files from.
